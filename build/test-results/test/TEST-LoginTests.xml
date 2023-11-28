@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LoginTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-11-28T19:59:36" hostname="LAPTOP-K5I9OT1F" time="16.309">
+  <properties/>
+  <testcase name="unseccessfulLogin()" classname="LoginTests" time="0.03"/>
+  <testcase name="successfulLoginTest()" classname="LoginTests" time="16.274"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+1701201578175	geckodriver	INFO	Listening on 127.0.0.1:63243
+1701201578598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52217" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Bekmyra\\AppData\\Local\\Temp\\rust_mozprofileLZKqMV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701201579310	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701201579430	Marionette	INFO	Listening on port 56847
+WebDriver BiDi listening on ws://127.0.0.1:52217
+Read port: 56847
+1701201579819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52217/devtools/browser/ca7991af-e082-4132-a462-debead46eb75
+????. 29, 2023 1:59:42 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+JavaScript warning: https://qa.guru/nassets/413d1620/jquery-ui.min.js?v=1685613221, line 12: unreachable code after return statement
+JavaScript warning: https://qa.guru/nassets/a30342ca/js/audio-comments.js?v=1685613219, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa.guru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qa.guru."
+JavaScript warning: https://qa.guru/nassets/413d1620/jquery-ui.min.js?v=1685613221, line 12: unreachable code after return statement
+JavaScript warning: https://qa.guru/nassets/a30342ca/js/audio-comments.js?v=1685613219, line 17: unreachable code after return statement
+JavaScript warning: https://qa.guru/nassets/413d1620/jquery-ui.min.js?v=1685613221, line 12: unreachable code after return statement
+JavaScript warning: https://qa.guru/nassets/a30342ca/js/audio-comments.js?v=1685613219, line 17: unreachable code after return statement
+]]></system-err>
+</testsuite>
