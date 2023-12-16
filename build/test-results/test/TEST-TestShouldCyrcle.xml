@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestShouldCyrcle" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-08T22:46:44" hostname="LAPTOP-K5I9OT1F" time="8.107">
+  <properties/>
+  <testcase name="JustTestCyrcle()" classname="TestShouldCyrcle" time="8.107"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+1702075605980	geckodriver	INFO	Listening on 127.0.0.1:22356
+1702075606403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "47707" "--remote ... calhost:47707/,http://[::1]:47707/" "-no-remote" "-profile" "C:\\Users\\Bekmyra\\AppData\\Local\\Temp\\rust_mozprofileFkXuSW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702075607006	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702075607095	Marionette	INFO	Listening on port 64766
+WebDriver BiDi listening on ws://127.0.0.1:47707
+Read port: 64766
+1702075607454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:47707/devtools/browser/22bb57e5-8dff-48a5-9b9b-4b47392df5ea
+]]></system-err>
+</testsuite>
