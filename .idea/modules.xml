@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QA.Guru.main.iml" filepath="$PROJECT_DIR$/.idea/modules/QA.Guru.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QA.Guru.test.iml" filepath="$PROJECT_DIR$/.idea/modules/QA.Guru.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QA.GURU.test.iml" filepath="$PROJECT_DIR$/.idea/modules/QA.GURU.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/qa_guru_17_java_Basic/qa_guru_17_java_Basic.iml" filepath="$PROJECT_DIR$/src/qa_guru_17_java_Basic/qa_guru_17_java_Basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/src.iml" filepath="$PROJECT_DIR$/src/src.iml" />
     </modules>
   </component>
