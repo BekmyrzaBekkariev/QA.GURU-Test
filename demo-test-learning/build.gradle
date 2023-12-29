@@ -3,7 +3,7 @@ plugins {
     id 'java-library'
     id "io.qameta.allure" version "2.11.2"
 }
-
+// Learn jenkins
 allure {
     report {
         version.set("2.19.0")
