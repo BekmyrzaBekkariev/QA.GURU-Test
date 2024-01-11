@@ -2,6 +2,9 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="QA.GURU-Test" target="19" />
+      <module name="QA.GURU-Test.main" target="19" />
+      <module name="QA.GURU-Test.test" target="19" />
       <module name="QA.Guru.main" target="19" />
       <module name="QA.Guru.test" target="19" />
     </bytecodeTargetLevel>
